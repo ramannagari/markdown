@@ -30,4 +30,4 @@ INT MAIN() {
 PRINT("HELLO,WORLD");
 RETURN 0
 ## LINK
-.[[title](https://www.example.com)]
+.[https://www.markdownguide.org/cheat-sheet/]
