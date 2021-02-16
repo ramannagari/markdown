@@ -30,4 +30,4 @@ INT MAIN() {
 PRINT("HELLO,WORLD");
 RETURN 0
 ## LINK
-.[https://www.markdownguide.org/cheat-sheet/]
+. [https://www.markdownguide.org/cheat-sheet/]
