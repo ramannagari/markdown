@@ -16,4 +16,12 @@
 - eee
     * eea
     *eeeb
-    
+## code
+    ```
+DEF FUN():
+    PRINT("HELLO KITS EEE")
+~~~
+~~~
+FUN()
+~~~
+ 
