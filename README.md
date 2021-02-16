@@ -19,15 +19,19 @@
 ## code
     ```
 DEF FUN():
-    PRINT("HELLO KITS EEE")
-~~~
-~~~
+    PRIN"HELLO KITS EEE")
+```
+```
 FUN()
-~~~
+```
 ## TASK A C PROGRAM TO PRINT HELLO WOLD
 #INCLUDE <STDIO.H)
 INT MAIN() {
 PRINT("HELLO,WORLD");
 RETURN 0
+```
 ## LINK
-. [https://www.markdownguide.org/cheat-sheet/]
+[]()
+## COLLEGE WEBSITE LINK
+[KITS](https://collegedunia.com/college/14034-krishna-chaitanya-institute-of-technology-and-sciences-kits-prakasam)
+.[WWW.KITS
